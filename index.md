@@ -61,3 +61,5 @@ The main way I raise money for the school is though my crocheted and sewn goods.
 For more information and to donate, email Jill directly on
 
 jill.geddes@tutorjill.com
+
+Take a look at all our photos on our [Facebook](https://www.facebook.com/Mutareschool/) page.
