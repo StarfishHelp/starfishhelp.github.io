@@ -9,4 +9,7 @@ collections:
     title: Uploads
     output: true
 theme: jekyll-theme-cayman
-description: A Mission Direct project
+description: |-
+  A Mission Direct project
+
+  ![IMG_20200308_130630990.jpg](/uploads/IMG_20200308_130630990.jpg)
