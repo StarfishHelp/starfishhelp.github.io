@@ -1,0 +1,12 @@
+---
+title: Starfish Help
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+theme: jekyll-theme-cayman
+description: A Mission Direct affiliated project
