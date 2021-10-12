@@ -3,8 +3,6 @@ title: Main page
 date: 2021-03-09 19:49:00 Z
 ---
 
-![IMG_20200308_130630990.jpg](/uploads/IMG_20200308_130630990.jpg)
-
 Hi there and thanks for coming to visit *Starfish Help*!
 
 I believe that education is *the* tool that those in the developing world need in order to pull themselves out of poverty.
