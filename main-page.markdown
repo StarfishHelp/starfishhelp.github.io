@@ -7,11 +7,10 @@ date: 2021-03-09 19:49:00 Z
 
 I believe that education is *the* tool that those in the developing world need in order to pull themselves out of poverty.
 
-![pexels-boris-ulzibat-3378996.jpg](/uploads/pexels-boris-ulzibat-3378996.jpg)
 
-In Zimbabwe, no new school has been built for 20 years. I am raising money to support the building of a new Primary School in Mutare.
+In Zimbabwe, no new school has been built for 20 years. I am raising money to supportthe ongoing needs of a new Primary School in Mutare that I have helped to build over the last 7 years. .
 
-If you feel that this is a project you could support too, then see if you would like to buy my crochet, or donate on my just giving page on the website.
+If you feel that this is a project you could support too, then see if you would like to buy my crochet or sewing.
 
 # About
 
