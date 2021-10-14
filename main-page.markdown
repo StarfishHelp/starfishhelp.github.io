@@ -14,7 +14,7 @@ If you feel that this is a project you could support too, then see if you would 
 
 # About
 
-Starfish Help is run by me, Jill Geddes. I have been a teacher for over three decades and I have a passion for sharing education.
+Starfish Help is run by me, Jill Geddes. I have been a teacher for over four decades and I have a passion for sharing education.
 
 In April 2013 I went to Southern Africa and was struck by the poverty in Zimbabwe and the distances that children had to walk to get to school. I determined to help build a school that could lessen the journey time for the students, but also, be a hope for a better future for every schoolchild.
 
