@@ -3,7 +3,7 @@ title: Main page
 date: 2021-03-09 19:49:00 Z
 ---
 
-Hi there! Thanks for coming to visit *Starfish Help*!
+* Hi there! Thanks for coming to visit *Starfish Help*!
 
 I believe that education is *the* tool that those in the developing world need in order to pull themselves out of poverty.
 
@@ -21,9 +21,9 @@ In April 2013 I went to Southern Africa and was struck by the poverty in Zimbabw
 
 Having researched for a project, I joined Mission Direct on a two week building project to Joshua Dhube school in Mutare. Far from being the end of a campaign to help, I find I am involved with a school that needs all the help it can get and I am committed to raising money for the school until the building work is complete. When I first went there, students in Grade 1 did not have enough tables to sit at and study. Half the class got off their chair, knelt on the concrete, and wrote on the seat of their chair. I determined not to let that happen again and money from starfish.help has paid for tables every year. Here are some new tables with the Head Teacher. 
 
-I have been raising money for this school for five years. In July 2019 I will go for 7 weeks  to build Year 7  classrooms and see the project through to completion.
+I have been raising money for this school for seven years. In July 2019 I went to complete the school with the final classrooms.
 
-An exciting development is that I have been fortunate in recruiting 10 other people to go with me in 2019 We need to raise £11,000 as a team to pay for our part of the build next year. This website will record all our events and activities along the way to our final goal.
+
 
 ## Service above self award June 2018
 
